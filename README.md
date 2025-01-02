@@ -1,0 +1,1 @@
+This project explores clustering techniques to analyze cryptocurrency data and group similar cryptocurrencies. The process includes normalizing data, determining the optimal number of clusters using the Elbow Method, applying K-Means clustering, and optimizing results with Principal Component Analysis (PCA).
